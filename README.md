@@ -4,3 +4,4 @@ This website for Horiseon Social Solution Services, Inc. provides information on
 URL: https://24rgraham.github.io/code-refactor/
 
 Preview:
+![preview of website](./assets/images/demo.png)
